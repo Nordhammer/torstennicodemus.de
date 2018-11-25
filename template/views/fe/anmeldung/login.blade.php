@@ -1,0 +1,1 @@
+<a href="{LOGIN.PATH}" class="btn btn-danger btn-block text-uppercase bg-light text-danger">{LOGIN.ABMELDEN}</a>

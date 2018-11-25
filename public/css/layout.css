@@ -1,0 +1,90 @@
+body {
+    padding-top: 54px;
+    color: #868e96;
+}
+
+a {
+    color: rgb(80, 152, 152);
+}
+
+a:active,
+a:focus,
+a:hover {
+    color: #CC0000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+}
+
+h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+    text-transform: none;
+}
+
+p.lead {
+    font-size: 1.15rem;
+    font-weight: 400;
+}
+
+section {
+    padding-top: 5rem!important;
+    padding-bottom: 5rem!important;
+    max-width: 75rem;
+}
+
+section.resume-section .resume-item .resume-date {
+    min-width: none;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: 800;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+}
+
+#sideNav .navbar-toggler:focus {
+    outline-color: #CC0000;
+}
+
+.subheading {
+    text-transform: lowercase;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.dev-icons {
+    font-size: 3rem;
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #CC0000;
+}
+
+.bg-primary {
+    background-color: rgb(80, 152, 152)!important;
+}
+
+.text-primary {
+    color: rgb(80, 152, 152)!important;
+}
+
+.text-info {
+    color: rgb(80, 152, 152)!important;
+}

@@ -1,0 +1,95 @@
+#toTop {
+    color: rgb(255, 255, 255);
+    background: rgba(80, 152, 152, .7);
+    border: .063rem solid rgb(80, 152, 152);
+    position: fixed;
+    bottom: 3.125em;
+    right: .625em;
+    cursor: pointer;
+    display: none;
+}
+
+.tpl_error {
+    font-size: 1.750rem;
+    font-weight: 500;
+    margin-top: 3em;
+}
+
+.wartung {
+    font-size: .950rem;
+    font-weight: 600;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+
+/* BOOTSTRAP 4 */
+
+.mt-6 {
+    margin-top: 6rem!important;
+}
+
+.mb-6 {
+    margin-bottom: 6rem!important;
+}
+
+.pt-6 {
+    padding-top: 6rem!important;
+}
+
+.pb-6 {
+    padding-bottom: 6rem!important;
+}
+
+.mt-7 {
+    margin-top: 8rem!important;
+}
+
+.mb-7 {
+    margin-bottom: 8rem!important;
+}
+
+.pt-7 {
+    padding-top: 8rem!important;
+}
+
+.pb-7 {
+    padding-bottom: 8rem!important;
+}
+
+.mt-8 {
+    margin-top: 10rem!important;
+}
+
+.mb-8 {
+    margin-bottom: 10rem!important;
+}
+
+.pt-8 {
+    padding-top: 10rem!important;
+}
+
+.pb-8 {
+    padding-bottom: 10rem!important;
+}
+
+.btn-xs {
+    width: 9.5%;
+}
+
+.btn-sm {
+    width: 24.5%;
+}
+
+.btn-md {
+    width: 49.5%;
+}
+
+.btn-lg {
+    width: 74.5%;
+}
+
+.btn-xl {
+    width: 99.5%;
+}
